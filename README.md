@@ -1,9 +1,9 @@
-<img src="https://acticraft.net/uploads/d28c1a95839941fea86622afc8a8e7046e14a7f1logo.webp" style="size: 20px"> 
+<img src="https://acticraft.net/uploads/d28c1a95839941fea86622afc8a8e7046e14a7f1logo.webp" style="height: 350px;"> 
 <h1> ACTICRAFT » THE MINING DEAD</h1>
 <p align="center">
     <a href="https://discord.gg/acticraft">
         <img alt="Discord" src="https://img.shields.io/discord/912333006558097428?color=7289DA&label=Discord&logo=discord&logoColor=7289DA">
-        <img alt="Last Updated" src="https://img.shields.io/github/last-commit/ActiCraft/ActiTMD">    
+        <img alt="Last Updated" src="https://img.shields.io/github/last-commit/ActiCraft/ActiTMD">   
 </a>
 
 <hr>

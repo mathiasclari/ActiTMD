@@ -1,5 +1,5 @@
 <article align="center">
-<img src="https://acticraft.net/uploads/d28c1a95839941fea86622afc8a8e7046e14a7f1logo.webp" style="height: 350px; " > 
+<img src="https://github.com/LeehamElectronics/dashboard-icons/blob/master/png/minecraft.png" style="height: 350px; " > 
 </article>
 <h1 align="center"> ACTICRAFT » THE MINING DEAD</h1>
 

@@ -1,6 +1,3 @@
-<article align="center">
-<img src="https://github.com/LeehamElectronics/dashboard-icons/blob/master/png/minecraft.png" align="center" > 
-</article>
 <h1 align="center"> ACTICRAFT » THE MINING DEAD</h1>
 
 <p align="center">
